@@ -2,7 +2,7 @@ libjpmul-Configurator
 =====================
 
 # About
-libjpmul-Configurator is a minimal graphical user interface to alter configuration parameters of [libjpmul](https://blabla/libJPMul) at runtime. It is easily integrated with any application using libJPMul.
+libjpmul-Configurator is a minimal graphical user interface to alter configuration parameters of [libjpmul](https://github.com/libjpmul/libjpmul/) at runtime. It is easily integrated with any application using libjpmul.
 
 # Getting started
 ## Step 1: Get libJPMul-Configurator
