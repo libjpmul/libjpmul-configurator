@@ -5,7 +5,7 @@ libjpmul-Configurator
 libjpmul-Configurator is a minimal graphical user interface to alter configuration parameters of [libjpmul](https://github.com/libjpmul/libjpmul/) at runtime. It is easily integrated with any application using libjpmul.
 
 # Getting started
-## Step 1: Get libJPMul-Configurator
+## Step 1: Get libjpmul-Configurator
 [Click here to download the source archive](https://github.com/libjpmul/libjpmul-configurator/archive/master.zip)
 
 [Click here to download the packaged library](https://github.com/libjpmul/libjpmul-configurator/blob/master/build/libjpmul-configurator.jar)
@@ -15,7 +15,7 @@ libjpmul-Configurator includes two classes, _ConfigurationModel_ and _ConfigPane
 
 ### Minimal example
 ```java
-JFrame frame = new JFrame("libJPMul-Configurator");  
+JFrame frame = new JFrame("libjpmul-Configurator");  
 ConfigPanel panel = new ConfigPanel();
 ConfigurationModel model = new ConfigurationModel();
 model.addPropertyChangeListener(panel);
@@ -25,4 +25,4 @@ frame.setVisible(true);
 ```
 
 # Licence
-libjpmul-Configurator is available under the modified 3-clause BSD license. See the LICENSE file for more info.
+libjpmul-Configurator is available under the modified 3-clause BSD license. See the LICENSE file for more information.
